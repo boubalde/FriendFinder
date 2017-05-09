@@ -1,0 +1,84 @@
+var friends= [
+  {
+  "name":"Jessica White",
+  "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Jessica_White_2012_Shankbone.JPG/220px-Jessica_White_2012_Shankbone.JPG",
+  "scores":[
+      4,
+      3,
+      5,
+      4,
+      4,
+      2,
+      2,
+      5,
+      4,
+      4
+    ]
+},
+{
+  "name":"paula",
+  "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Paula_Patton_by_Gage_Skidmore.jpg/220px-Paula_Patton_by_Gage_Skidmore.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"saldana",
+  "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Zoe_Saldana_by_Gage_Skidmore_2.jpg/220px-Zoe_Saldana_by_Gage_Skidmore_2.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Naomie Harris",
+  "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Naomie_Harris_2014.jpg/220px-Naomie_Harris_2014.jpg",
+  "scores":[
+     5,
+     4,
+     4,
+     3,
+     2,
+     4,
+     4,
+     4,
+     5,
+     5
+      ]
+},
+{
+  "name":"Sonia Rolland",
+  "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sonia_Rolland.jpg/220px-Sonia_Rolland.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     5,
+     3,
+     4,
+     2,
+     4
+      ]
+}
+
+];
+module.exports = friends;
